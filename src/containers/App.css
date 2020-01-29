@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Cream Cake Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Cream Cake Regular'), url('CreamCake.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Cream Cake Regular';
+
+}
